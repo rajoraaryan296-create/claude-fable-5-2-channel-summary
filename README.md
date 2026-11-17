@@ -1,0 +1,2 @@
+# claude-fable-5-2-channel-summary
+想用 Claude Fable 5.2，目前比较直接的三条入口是： https://tryallapi.com/register?aff=5A6A：momoAPIPro（tryallapi.com）接口聚合，适合在自己的项目或脚本里按量调用。 https://trymodel.chat/zh：Trymodel 网页对话，模型下拉里已经能选到 Claude Fable 5.2。 https://claude-opus.top/：中文说明页，主推仍然是 trymodel.chat，另外标注了一条 Session Key 备选路径。
